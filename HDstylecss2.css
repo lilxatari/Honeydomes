@@ -1,0 +1,68 @@
+html { background: #111; }
+body { background: #black;
+     font-family: 'Honey', sans-serif;
+     font-size: 30px;
+line-height: 1.75;
+    width: 1500px;
+    height: 1000px;
+    margin: 50 auto;
+    padding: 2rem; }
+
+
+
+    
+ul {
+  border: 3px solid yellow;
+  padding: 1.0em;
+  background-color: lightgoldenrodyellow;
+  text-align: ;
+
+
+
+
+
+
+}
+
+
+h1 { font-family: 'Honey', cursive;
+    border: 3px solid yellow;
+    font-size: 90px;
+    color: black;
+    text-align: left;
+    background-color: lightgoldenrodyellow;
+
+
+
+
+
+
+
+ }
+
+h2 { font-family: 'Honey', cursive; 
+    font-size: 65px;
+    color: black;
+    text-align:left;
+    background-color: lightgoldenrodyellow;
+
+
+
+
+}
+
+h3 { font-family: 'Honey', cursive; 
+    text
+
+
+
+
+
+
+}
+footer {
+
+    background-color: #000;
+    color: #lightgoldenrodyellow;
+    padding: 10px 0;
+}
